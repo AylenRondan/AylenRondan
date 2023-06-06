@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D4D16AQGW24cUoDixvQ/profile-displaybackgroundimage-shrink_350_1400/0/1686074224527?e=1691625600&v=beta&t=yaoleI3kOOwPgL-TLhFKjHZqEg-sINf-F2o66V6Y4zA" height="45px"/></a>
+
 <h1 align="center">Hi 👋, I'm Aylen Rondan</h1>
 <h3 align="center">A passionate full Stack developer from Argentina</h3>
 
